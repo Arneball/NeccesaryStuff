@@ -2,7 +2,5 @@
 <manifest package="com.basselop.neccesarystuff"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <application android:label="@string/app_name">
-        <uses-library android:name="com.google.android.things" />
-    </application>
+    <application android:label="@string/app_name" />
 </manifest>
